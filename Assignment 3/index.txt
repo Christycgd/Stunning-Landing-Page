@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
+  <title>Stunning Site</title>
+</head>
+<body>
+  <main>
+    <header>
+      <img src="stunning-logo.png" alt="logo" class="logo"  />
+      <ul class="nav">
+        <li>
+          <a href="#">Home</a>
+        </li>
+        <li>
+          <a href="#">About</a>
+        </li>
+        <li>
+          <a href="#">Blog</a>
+        </li>
+        <li>
+          <a href="#" >Jobs</a>
+        </li>
+      </ul>
+      <button class="account">Your Account</button>
+    </header>
+    <section>
+      <img src="landing-section-image.png" alt="main" class="img2" />
+      <h1 class="title">Stunning<br />Workplace<span class="symbol"><i class="fa fa-square"></i></span></h1>
+      <div class="box1">
+        <p class="content">
+          With stunning, remote teams can organize projects, manage shifting priorities, and get work done.
+        </p>
+      </div>
+      <div class="layout2">
+        <button class="newaccount">New Account</button>
+        <img src="arrow-up.png" alt="down"class="updown" />
+        <img src="arrow-down.png" alt="up" class="updown" />
+      </div>
+    </section>
+    <section>
+      <div class="option1main">
+        <div class="option1">
+          <img src="tick-gray.png" alt="untick" />
+          <span>Dmm Design</span>
+        </div>
+          <div class="option1sub">
+            <img src="user-red.png" alt="user1" />
+            <span class="date">Dec 20</span>
+            <button class="type1"></button>
+          </div>
+      </div>
+      <div class="option2main">
+        <div class="option1">
+          <img src="tick-blue.png" alt="untick" />
+          <span>Blurr Animation</span>
+        </div>
+          <div class="option1sub">
+            <img src="user-orange.png" alt="user2" />
+            <span class="date">Dec 22</span>
+            <button class="type2"></button>
+          </div>
+      </div>
+      <div class="option3main">
+        <div class="option1">
+          <img src="tick-gray.png" alt="untick" />
+          <span>Illustration</span>
+        </div>
+          <div class="option1sub">
+            <img src="user-blue.png" alt="user3" />
+            <span class="date">Dec 26</span>
+            <button class="type3"></button>
+          </div>
+      </div>
+      <div class="option4main">
+        <div class="option1">
+          <img src="tick-gray.png" alt="untick" />
+          <span>Refunds</span>
+        </div>
+          <div class="option1sub">
+            <img src="user-pink.png" alt="user4" />
+            <span class="date">Dec 28</span>
+            <button class="type4"></button>
+          </div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>
